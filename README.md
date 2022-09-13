@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# My Spendings App
+# Greetings App
 
 > This is a Rails API server (back-end) application, to be used in combination with the front-end (which just displays a random greeting). [https://github.com/acolombo1/hello-react-front-end](https://github.com/acolombo1/hello-react-front-end)
 ## Built With
