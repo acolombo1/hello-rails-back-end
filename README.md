@@ -2,14 +2,11 @@
 
 # My Spendings App
 
-> This is a Rails application that stores transactions (movements or spendings) in a database, organized in categories, allowing to administrate your budget, by calculating the totals for each category. It uses Devise for authentication. Though it is designed for the mobile device, you could well use it from your browser.
+> This is a Rails API server (back-end) application, to be used in combination with the front-end (which just displays a random greeting). [https://github.com/acolombo1/hello-react-front-end](https://github.com/acolombo1/hello-react-front-end)
 ## Built With
 
 - Ruby
 - Rails
-- RSpec - Capybara - Database Cleaner for testing
-- Letter opener gem
-- Devise for Authentication
 - Git and Github using GitFlow
 
 ## Getting Started
@@ -22,7 +19,7 @@
 ## Usage
 
 - rails s
-- An API server will listening to http://localhost:3000/greetings
+- An API server will be listening to http://localhost:3000/greetings.
 - To be used in combination with the front-end: [https://github.com/acolombo1/hello-react-front-end](https://github.com/acolombo1/hello-react-front-end).
 ## Authors
 
